@@ -11,3 +11,9 @@ A 2D roleplaying hack n' slash game where the main character faces against horde
 ## Gladiator game
 The character from Everybody Loves Me is back! Now he is placed in a gladiator arena where he have to survive waves of enemies. To be able to come out of this alive, the main character needs to collect gold and experience points to buy new gear and level up his abilities.
 
+![Gladiator game](./Screenshots/Gladiator/3.png)
+![Gladiator game](./Screenshots/Gladiator/4.png)
+![Gladiator game](./Screenshots/Gladiator/5.png)
+![Gladiator game](./Screenshots/Gladiator/screen1.png)
+![Gladiator game](./Screenshots/Gladiator/screen2.png)
+
